@@ -1,4 +1,3 @@
-
 config ubootenv
         option dev '/dev/mtd1'
         option offset '0x0'
